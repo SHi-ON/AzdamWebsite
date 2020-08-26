@@ -27,7 +27,7 @@ sections:
   path: exampleSite/content/portfolio
   label: Projects
   create: documents
-  match: project-*/*
+  match: "**/*"
 - type: heading
   label: Author
 - type: directory
