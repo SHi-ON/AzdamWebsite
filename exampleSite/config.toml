@@ -2,7 +2,7 @@ baseURL = "https://azdam-website.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross"
+title = "Azdam"
 [[menu.main]]
 URL = "about"
 name = "About"
