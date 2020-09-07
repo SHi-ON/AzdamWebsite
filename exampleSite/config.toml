@@ -29,7 +29,7 @@ google_analytics_id = ""
 home = "Home"
 logo = ""
 phone = "+880 2544 658 256"
-theme_color = "#8e2287"
+theme_color = "#41228e"
 [params.contact]
 enable = true
 form_action = "#"
