@@ -115,7 +115,7 @@ clients_logo_slider:
   enable: true
   item:
   - logo: "/images/client-youtube-logo.png"
-    URL: https://www.facebook.com/azdam.azdam.921
+    URL: https://bit.ly/37vHeY8
   - logo: "/images/client-tlgram-logo.png"
     URL: "#"
   - logo: "/images/client-twetter-logo.png"
