@@ -1,7 +1,7 @@
 ---
-title: Artwork Design 05
+title: Escape From Police
 date: 2019-05-12T12:14:34.000+06:00
-image: images/portfolio/item-5.png
+image: "/images/escape-from-police.png"
 client: John Doe
 project_url: https://themefisher.com/
 categories:
