@@ -134,7 +134,7 @@ clients_logo_slider:
     URL: http://examplesite.com
   - logo: images/clients-logo/client-logo-5.png
     URL: "#"
-  title: "555555"
+  title: ''
 blog:
   enable: true
   title: Blogs
