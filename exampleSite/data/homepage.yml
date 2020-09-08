@@ -81,7 +81,7 @@ service:
     highlighted: false
 portfolio:
   enable: true
-  title: Portfolio
+  title: Published Games
   item_show: "11"
 testimonial:
   enable: true
