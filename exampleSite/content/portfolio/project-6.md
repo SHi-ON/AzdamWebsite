@@ -1,7 +1,7 @@
 ---
 title: Play & Learn English
 date: 2019-05-12T12:14:34.000+06:00
-image: "/images/dd-banner-2.png"
+image: "/images/abc-banner.png"
 client: John Doe
 project_url: https://themefisher.com/
 categories:
