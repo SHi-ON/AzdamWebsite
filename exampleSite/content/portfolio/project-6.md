@@ -9,23 +9,21 @@ categories:
 description: This is meta description.
 
 ---
-#### Project Requirements
+# Play & Learn English Like Games
 
-04
+#### About the game
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
-
-#### Project Details
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+This game challenges you on seven levels and each level with several language categories.  
+  
+At each stage of the game, you have to guess the correct words, and sometimes you have to select the option or move your finger, and sometimes you have to hit gear one and two like a car.  
+  
+Many categories are included in the game and will be added to the steps in each update.  
+human organs names  
+Animals  
+Fruits and vegetables  
+jobs  
+Colors  
+sports  
+Kitchen and food  
+Everything about the car  
+The names of the tools and ....
