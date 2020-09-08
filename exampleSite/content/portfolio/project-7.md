@@ -1,7 +1,7 @@
 ---
-title: Artwork Design 01
+title: Drag and Drop
 date: 2019-05-12T12:14:34.000+06:00
-image: images/portfolio/icon.png
+image: "/images/dd-banner-2.png"
 client: John Doe
 project_url: https://www.facebook.com/azdam.azdam.921
 categories:
