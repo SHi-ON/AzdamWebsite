@@ -1,5 +1,5 @@
 ---
-title: Artwork Design 09
+title: Kill Zombies
 date: 2019-05-12T12:14:34.000+06:00
 image: "/images/zomb.png"
 client: John Doe
