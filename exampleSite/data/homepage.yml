@@ -125,7 +125,7 @@ clients_logo_slider:
   - logo: "/images/client-facebook-logo.png"
     URL: https://www.facebook.com/AmaniacStudio
   - logo: "/images/client-google-play-logo.png"
-    URL: "#"
+    URL: https://play.google.com/store/apps/dev?id=7761713427846111049
   - logo: "/images/client-app-store-logo.png"
     URL: http://examplesite.com
   - logo: images/clients-logo/client-logo-3.png
