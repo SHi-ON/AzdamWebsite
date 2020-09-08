@@ -10,10 +10,10 @@ categories:
 description: This is meta description.
 
 ---
-#### Open The Lock
+#### how many locks can you open?
 
-how many locks can you open?  
-  
-To open the lock you need to have time to click on the screen at the moment when the red circle is on the red circle. In each new level, the number of combinations required to open the castle increases. A cold mind and nerves of steel will help you surpass the rest in opening locks.  
-  
+About the game
+
+To open the lock you need to have time to click on the screen at the moment when the red circle is on the red circle. In each new level, the number of combinations required to open the castle increases. A cold mind and nerves of steel will help you surpass the rest in opening locks.
+
 More than hundreds of interesting and fun game stages.
