@@ -1,5 +1,5 @@
 ---
-title: "Portfolio"
-description: "This is meta description."
-draft: false
+title: Published Games
+description: This is meta description.
+
 ---
