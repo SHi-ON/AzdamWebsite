@@ -127,7 +127,7 @@ clients_logo_slider:
   - logo: "/images/client-tlgram-logo.png"
     URL: https://t.me/IOTON_Telegramity
   - logo: "/images/client-app-store-logo.png"
-    URL: http://examplesite.com
+    URL: "#"
   title: ''
 blog:
   enable: true
