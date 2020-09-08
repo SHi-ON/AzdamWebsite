@@ -120,7 +120,7 @@ clients_logo_slider:
     URL: "#"
   - logo: "/images/client-twetter-logo.png"
     URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-4.png
+  - logo: "/images/client-instagram-logo.png"
     URL: "#"
   - logo: images/clients-logo/client-logo-5.png
     URL: http://examplesite.com
