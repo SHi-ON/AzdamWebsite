@@ -114,7 +114,7 @@ testimonial:
 clients_logo_slider:
   enable: true
   item:
-  - logo: images/clients-logo/client-logo-6.png
+  - logo: images/clients-logo/client-logo-1.png
     URL: https://www.facebook.com/azdam.azdam.921
   - logo: images/clients-logo/client-logo-2.png
     URL: "#"
