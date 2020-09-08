@@ -126,7 +126,7 @@ clients_logo_slider:
     URL: http://examplesite.com
   - logo: "/images/client-google-play-logo.png"
     URL: "#"
-  - logo: images/clients-logo/client-logo-2.png
+  - logo: "/images/client-app-store-logo.png"
     URL: http://examplesite.com
   - logo: images/clients-logo/client-logo-3.png
     URL: "#"
