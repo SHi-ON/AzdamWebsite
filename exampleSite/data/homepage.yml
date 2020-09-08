@@ -128,12 +128,6 @@ clients_logo_slider:
     URL: https://play.google.com/store/apps/dev?id=7761713427846111049
   - logo: "/images/client-app-store-logo.png"
     URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-3.png
-    URL: "#"
-  - logo: images/clients-logo/client-logo-4.png
-    URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-5.png
-    URL: "#"
   title: ''
 blog:
   enable: true
