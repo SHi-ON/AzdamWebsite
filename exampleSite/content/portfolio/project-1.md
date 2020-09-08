@@ -10,9 +10,7 @@ categories:
 description: This is meta description.
 
 ---
-# Kill Zombies
-
-The dead men forgive no mistakes!
+# The dead men forgive no mistakes!
 
 #### Game Details
 
