@@ -116,7 +116,7 @@ clients_logo_slider:
   item:
   - logo: "/images/client-youtube-logo.png"
     URL: https://www.facebook.com/azdam.azdam.921
-  - logo: images/clients-logo/client-logo-2.png
+  - logo: "/images/client-tlgram-logo.png"
     URL: "#"
   - logo: images/clients-logo/client-logo-3.png
     URL: http://examplesite.com
