@@ -3,8 +3,8 @@ title: Artwork Design 09
 date: 2019-05-12T12:14:34.000+06:00
 image: "/images/zomb.png"
 client: John Doe
-project_url: <a href="https://play.google.com/store/apps/details?id=com.azdam.killzombies">link
-  text</a>
+project_url: '"https://play.google.com/store/apps/details?id=com.azdam.killzombies">link
+  text</a>'
 categories:
 - design
 - development
