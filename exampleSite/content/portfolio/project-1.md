@@ -12,7 +12,7 @@ description: This is meta description.
 ---
 # The dead men forgive no mistakes!
 
-#### Game Details
+#### About the game
 
 You were left to survive in a city full of mad zombies.  
 You must use all of your skills in order to stay alive, hunt down dead targets in a bloody gore action. Don’t hesitate to pull the trigger and remember
