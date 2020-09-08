@@ -119,7 +119,7 @@ clients_logo_slider:
   - logo: "/images/client-tlgram-logo.png"
     URL: https://t.me/IOTON_Telegramity
   - logo: "/images/client-twetter-logo.png"
-    URL: http://examplesite.com
+    URL: https://twitter.com/AmaniacStudio
   - logo: "/images/client-instagram-logo.png"
     URL: "#"
   - logo: "/images/client-facebook-logo.png"
