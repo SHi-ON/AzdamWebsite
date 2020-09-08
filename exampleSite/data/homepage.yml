@@ -116,16 +116,16 @@ clients_logo_slider:
   item:
   - logo: "/images/client-youtube-logo.png"
     URL: https://bit.ly/37vHeY8
-  - logo: "/images/client-tlgram-logo.png"
-    URL: https://t.me/IOTON_Telegramity
-  - logo: "/images/client-twetter-logo.png"
-    URL: https://twitter.com/AmaniacStudio
-  - logo: "/images/client-instagram-logo.png"
-    URL: https://www.instagram.com/azdamcenter/
   - logo: "/images/client-facebook-logo.png"
     URL: https://www.facebook.com/AmaniacStudio
   - logo: "/images/client-google-play-logo.png"
     URL: https://play.google.com/store/apps/dev?id=7761713427846111049
+  - logo: "/images/client-twetter-logo.png"
+    URL: https://twitter.com/AmaniacStudio
+  - logo: "/images/client-instagram-logo.png"
+    URL: https://www.instagram.com/azdamcenter/
+  - logo: "/images/client-tlgram-logo.png"
+    URL: https://t.me/IOTON_Telegramity
   - logo: "/images/client-app-store-logo.png"
     URL: http://examplesite.com
   title: ''
