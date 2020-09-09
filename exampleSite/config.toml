@@ -59,6 +59,9 @@ link = "plugins/google-map/map.js"
 enable = true
 preloader = "images/preloader.gif"
 [[params.social]]
+URL = "https://bit.ly/37vHeY8"
+icon = "ti-youtube"
+[[params.social]]
 URL = "#https://www.facebook.com/AmaniacStudio"
 icon = "ti-facebook"
 [[params.social]]
