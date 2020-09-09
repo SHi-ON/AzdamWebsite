@@ -27,7 +27,7 @@ description = "This is meta description"
 email = "justfree.rms@email.com"
 google_analytics_id = ""
 home = "Home"
-logo = "/images/kodoviy_zamok.png"
+logo = "/images/client-youtube-logo.png"
 phone = "+880 2544 658 256"
 theme_color = "#41228e"
 [params.contact]
