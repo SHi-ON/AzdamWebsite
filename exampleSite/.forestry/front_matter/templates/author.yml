@@ -18,7 +18,6 @@ fields:
   - type: text
     name: icon
     label: icon
-    description: Social media
   - type: text
     name: link
     label: link
