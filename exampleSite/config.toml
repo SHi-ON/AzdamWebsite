@@ -1,7 +1,7 @@
 baseURL = "https://azdam.com"
 languageCode = "en-us"
 summaryLength = "10"
-theme = "megna-hugo"
+theme = "kross-hugo"
 title = "Azdam Game"
 [[menu.main]]
 URL = "about"
