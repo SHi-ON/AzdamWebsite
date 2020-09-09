@@ -69,4 +69,4 @@ URL = "#"
 icon = "ti-dribbble"
 [[params.social]]
 URL = "#"
-icon = "ti-twitter-alt"
+icon = "/images/client-twetter-logo.png"
