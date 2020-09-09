@@ -3,7 +3,7 @@ title: Unlock Doors
 date: 2020-05-20T21:00:00+00:00
 image: "/images/unlockdoors-banner.png"
 client: John Doe John
-project_url: https://play.google.com/store/apps/details?id=com.azdam.unlockdoors
+project_url: "[Azdam Game](https://play.google.com/store/apps/details?id=com.azdam.unlockdoors)"
 categories:
 - illustration
 - development
