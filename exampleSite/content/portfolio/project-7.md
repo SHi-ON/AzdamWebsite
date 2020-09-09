@@ -3,7 +3,7 @@ title: Drag and Drop
 date: 2019-05-12T12:14:34.000+06:00
 image: "/images/dd-banner-2.png"
 client: John Doe
-project_url: https://play.google.com/store/apps/details?id=com.azdam.ddgame
+project_url: "[See more](https://play.google.com/store/apps/details?id=com.azdam.ddgame)"
 categories:
 - branding
 description: This is meta description.
