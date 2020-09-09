@@ -65,8 +65,8 @@ icon = "ti-facebook"
 URL = "https://www.instagram.com/azdamcenter/"
 icon = "ti-instagram"
 [[params.social]]
-URL = "#"
-icon = "ti-dribbble"
+URL = "https://play.google.com/store/apps/dev?id=7761713427846111049"
+icon = "ti-android"
 [[params.social]]
 URL = "https://twitter.com/AmaniacStudio"
 icon = "ti-twitter-alt"
