@@ -22,7 +22,7 @@ weight = 4
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
-copyright = "Copyright &copy; 2020 a theme by [AzDam Game](https://azdam.com)"
+copyright = "Copyright &copy; 2020 a theme by [Azdam Game](https://azdam.com)"
 description = "This is meta description"
 email = "justfree.rms@email.com"
 google_analytics_id = ""
