@@ -4,8 +4,8 @@ client = "John Doe"
 date = 2019-05-12T06:14:34Z
 description = "This is meta description."
 draft = true
-image = "/images/dd-banner-2.png"
-project_url = "[See more](https://play.google.com/store/apps/details?id=com.azdam.ddgame)"
+image = "/images/banner2.png"
+project_url = "[See more](https://play.google.com/store/apps/details?id=com.azdam.stopwatch)"
 title = "Stopwatch"
 
 +++
