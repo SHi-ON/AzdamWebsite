@@ -2,10 +2,10 @@
 categories = ["illustration", "development"]
 client = "John Doe John"
 date = 2020-05-20T21:00:00Z
-description = "This is meta description."
+description = "Soccer for everyone! Show off your best kicks in Nice Goal."
 draft = true
 image = "/images/unlockdoors-banner.png"
-project_url = "[See more](https://play.google.com/store/apps/details?id=com.azdam.unlockdoors)"
+project_url = "[See more](https://play.google.com/store/apps/details?id=com.azdam.nicegoal)"
 title = "NICE GOAL!"
 
 +++
