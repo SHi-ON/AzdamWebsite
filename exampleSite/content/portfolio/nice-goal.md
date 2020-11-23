@@ -14,9 +14,9 @@ title = "NICE GOAL!"
 
 Soccer for everyone! Show off your best kicks in Nice Goal, the action-packed football game that always hits the back of the net! Your task?
 
- Shoot and score! Dodge countless enemy players,
+Shoot and score! Dodge countless enemy players,
 
- like a football superstar, nail a perfect goal! 
+like a football superstar, nail a perfect goal!
 
 To play, you need to that you don't hit any opposing players. Sound simple? Think again! Enemy players are going to pull all kinds of crazy tricks! You're going to need lightning-fast reactions, logic skills, and serious football knowhow to Score a nice goal!
 
