@@ -27,7 +27,7 @@ description = "This is meta description"
 email = "support@azdam.com"
 google_analytics_id = ""
 home = "Home"
-logo = ""
+logo = "/images/logo-256.png"
 phone = ""
 theme_color = "#41228e"
 [params.contact]
