@@ -84,7 +84,7 @@ portfolio:
   title: Published Games
   item_show: "11"
 testimonial:
-  enable: true
+  enable: false
   title: Testimonials
   item:
   - name: Jesica Gomez
