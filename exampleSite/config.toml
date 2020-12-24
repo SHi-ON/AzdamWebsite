@@ -28,7 +28,7 @@ email = "support@azdam.com"
 google_analytics_id = ""
 home = "Home"
 logo = ""
-phone = ""
+phone = "/images/512-logo3.png"
 theme_color = "#41228e"
 [params.contact]
 enable = true
