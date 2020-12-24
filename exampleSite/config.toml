@@ -36,8 +36,8 @@ form_action = "#"
 [params.map]
 enable = true
 gmap_api = "https://goo.gl/maps/mBZUzg4SZ98KzW9N9"
-map_latitude = ""
-map_longitude = ""
+map_latitude = "42.64985215806127"
+map_longitude = " -73.75325425765648"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
