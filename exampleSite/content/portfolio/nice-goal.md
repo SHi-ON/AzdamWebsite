@@ -4,7 +4,7 @@ client = "John Doe John"
 date = 2020-05-20T21:00:00Z
 description = "Soccer for everyone! Show off your best kicks in Nice Goal."
 image = "/images/banner-soccer.png"
-project_url = "[See more](https://play.google.com/store/apps/details?id=com.azdam.nicegoal)"
+project_url = "[See more]( https://apps.apple.com/us/app/nice-goal/id1548137113)"
 title = "NICE GOAL!"
 
 +++
@@ -24,4 +24,4 @@ You'll be able to hit the ball with ease, as you master the perfect soccer kick 
 
 App store: [https://apps.apple.com/us/app/nice-goal/id1548137113](https://apps.apple.com/us/app/nice-goal/id1548137113 "https://apps.apple.com/us/app/nice-goal/id1548137113")
 
-[https://play.google.com/store/apps/details?id=com.azdam.nicegoal](https://play.google.com/store/apps/details?id=com.azdam.nicegoal "Google Play")
+Google Play: [https://play.google.com/store/apps/details?id=com.azdam.nicegoal](https://play.google.com/store/apps/details?id=com.azdam.nicegoal "Google Play")
