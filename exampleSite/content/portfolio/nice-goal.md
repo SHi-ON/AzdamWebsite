@@ -22,5 +22,6 @@ To play, you need to that you don't hit any opposing players. Sound simple? Thin
 
 You'll be able to hit the ball with ease, as you master the perfect soccer kick and turn the keeper's goal games around. You'll find it so simple you'll never want to play football any other way. Before you know it, you'll be able to score goals under any amount of pressure.
 
-[https://apps.apple.com/us/app/nice-goal/id1548137113](https://apps.apple.com/us/app/nice-goal/id1548137113 "https://apps.apple.com/us/app/nice-goal/id1548137113")  
-\[See more\]([https://play.google.com/store/apps/details?id=com.azdam.nicegoal](https://play.google.com/store/apps/details?id=com.azdam.nicegoal "https://play.google.com/store/apps/details?id=com.azdam.nicegoal"))
+App store: [https://apps.apple.com/us/app/nice-goal/id1548137113](https://apps.apple.com/us/app/nice-goal/id1548137113 "https://apps.apple.com/us/app/nice-goal/id1548137113")
+
+[https://play.google.com/store/apps/details?id=com.azdam.nicegoal](https://play.google.com/store/apps/details?id=com.azdam.nicegoal "Google Play")
