@@ -127,7 +127,7 @@ clients_logo_slider:
   - logo: "/images/client-tlgram-logo.png"
     URL: https://t.me/IOTON_Telegramity
   - logo: "/images/client-app-store-logo.png"
-    URL: "#"
+    URL: https://apps.apple.com/us/developer/azdam-llc/id1548137115
   title: ''
 blog:
   enable: false
